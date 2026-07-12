@@ -18,9 +18,7 @@
       href="https://github.com/spotbye/SpotiFLAC/releases/latest"><img
         src="https://img.shields.io/badge/Linux-Any-FCC624?labelColor=black&logo=linux&logoColor=white" /></a><a
       href="https://t.me/spotiflac"><img
-        src="https://img.shields.io/badge/Announcements-369eff?labelColor=black&logo=telegram&logoColor=white" /></a><a
-      href="https://t.me/spotiflac_chat"><img
-        src="https://img.shields.io/badge/Chat-369eff?labelColor=black&logo=telegram&logoColor=white" /></a>
+        src="https://img.shields.io/badge/Announcements-369eff?labelColor=black&logo=telegram&logoColor=white" /></a>
     <br />
     <br />
     <a href="https://github.com/spotbye/SpotiFLAC/releases/latest" target="_blank"><img
